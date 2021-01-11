@@ -5,7 +5,7 @@ import requests
 import bs4
 import pandas as pd
 
-PATH = os.path.join("/", "Users", "avoitika", "Projects", "TaylorSwiftie")
+PATH = os.path.join("/", "Users", "YOUR USERNAME", "YOUR FOLDER")
 
 
 def table_to_df(table):
