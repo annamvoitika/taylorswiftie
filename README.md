@@ -14,6 +14,8 @@ Here comes the simplest script you can run in your Terminal whenever you need a 
 
 ## Instructions
 
+If you don't have figlet installed -> brew install figlet.
+
 Clone the repo and run ./swiftie.sh in your terminal.
 
 ### Scraper logic
